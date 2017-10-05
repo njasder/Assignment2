@@ -14,7 +14,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * This is a welcome screen used as luancher
+ * This is a welcome screen used as launcher.
  */
 
 public class WelcomeActivity extends AppCompatActivity {
